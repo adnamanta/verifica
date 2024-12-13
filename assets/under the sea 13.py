@@ -1,6 +1,6 @@
-"""versione definitiva con modifiche ho aggiunto i proiettili, modificato il boss che si puo eliminare dopo 5 colpi
-suoni diversi per le diverse collisioni un immagine di sfondo e una musica di sottofondo ho modificato anche la 
-velocita dei nemici probabilmente ora sono troppo lenti
+"""Versione definitiva con modifiche: ho aggiunto i proiettili, modificato il boss che può essere eliminato dopo 5 colpi,
+aggiunto suoni diversi per le varie collisioni,un'immagine di sfondo e una musica di sottofondo. 
+Ho anche modificato la velocità dei nemici, che probabilmente ora sono troppo lenti.
 """
 import pygame
 import random
